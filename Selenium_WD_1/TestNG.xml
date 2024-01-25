@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Suite" verbose="2">
+<test name="Test Case">
+<parameter name="Name" value="warrior"></parameter>
+<classes>
+<class name= "testNG.ParametersEx"/>
+</classes>
+</test>
+</suite>
+
+
+<!-- <class name="testNG.TestNGDemo"></class>
+<class name="testNG.SkippingTestCase"></class>
+<class name="testNG.SuiteUsage"></class> -->
+
+<!-- <groups>
+<run>
+<exclude name="Second"></exclude>
+</run>
+</groups>
+<classes>
+<class name ="testNG.GroupingExecution"/>
+</classes> -->
